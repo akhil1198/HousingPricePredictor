@@ -12,7 +12,7 @@ A machine learning project that leverages advanced data science techniques to pr
 
 ## 🏆 Project Highlights
 - **Best Model**: XGBoost Regressor
-  - R² Score: 0.8291
+  - R² Score: 0.8291 (performance in the range of professional real estate valuation systems)
   - Root Mean Square Error: $48,350
 
 ### 🔍 Top Factors Influencing House Prices
